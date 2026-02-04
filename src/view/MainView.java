@@ -1,13 +1,6 @@
 package view;
 
-import controller.MemberController;
-import controller.TrainerController;
-import dto.MemberDTO;
-import dto.TrainerDTO;
-import java.sql.SQLException;
 import java.util.Scanner;
-import model.MemberModel;
-import model.TrainerModel;
 
 public class MainView {
     public static int menu() {

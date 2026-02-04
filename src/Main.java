@@ -4,9 +4,6 @@ import model.MemberModel;
 import model.TrainerModel;
 import model.TrainingSessionModel;
 import view.MainView;
-
-import java.lang.reflect.Member;
-import java.sql.SQLException;
 import java.util.Scanner;
 
 public class Main {
