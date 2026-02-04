@@ -11,7 +11,7 @@ public class DBConnection {
     private DBConnection() throws SQLException {
         String url = "jdbc:mysql://localhost:3306/gym_manage_system";
         String user = "root";
-        String password = "mysql";
+        String password = "";
 
         connection = DriverManager.getConnection(url, user, password);
     }

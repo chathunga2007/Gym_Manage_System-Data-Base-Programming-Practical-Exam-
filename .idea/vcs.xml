@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Documents/GitHub/achive01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Documents/GitHub/desktop-tutorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Documents/IJSE Software Engineering Cousre Note/IJSE Sem 01 Notes/Database Programming/gym_manage_system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Documents/IJSE Software Engineering Cousre Note/IJSE Sem 01 Notes/OOP Module/OOP Course Work" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Documents/IJSE Software Engineering Cousre Note/IJSE Sem 01 Notes/OOP Module/OOP Course Work/connect-four-game-assignment-main" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Documents/IJSE Software Engineering Cousre Note/IJSE Sem 01 Notes/PRF Module/PRF Final Course Work" vcs="Git" />
   </component>
 </project>
